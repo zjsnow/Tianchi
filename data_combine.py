@@ -1,5 +1,5 @@
 import pandas as pd
-'''将数值特征和中文特征整合,目前总共的特征数是
+'''将数值特征和中文特征整合
 '''
 
 train_data_num=pd.read_csv('E:\self_study\\tianchi\Health_AI\data\\test\\train_data_num_final.csv')
